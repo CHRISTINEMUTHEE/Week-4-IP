@@ -4,7 +4,7 @@ This is the Week 4 Independent Project
 # Description
 This was ment to analyse and understand car electric usage over time.
 # User Requirements
-You need Python SQL and a jupiter notebook.
+You need Python SQL and a jupyter notebook.
 # Set up Installations
 clone this project from:https://github.com/CHRISTINEMUTHEE/Week-4-IP.
 # Technologies used
